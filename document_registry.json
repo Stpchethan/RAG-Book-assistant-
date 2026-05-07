@@ -1,0 +1,62 @@
+[
+  {
+    "file_path": "document_loaders/deeplearning.pdf",
+    "pages": 534,
+    "chunks": 1146,
+    "indexed_at": "2026-04-24T08:50:55.722028"
+  },
+  {
+    "file_path": "document_loaders\\deeplearning.pdf",
+    "pages": 534,
+    "chunks": 1146,
+    "indexed_at": "2026-04-24T11:31:14.391959"
+  },
+  {
+    "file_path": "document_loaders\\GRU.pdf",
+    "pages": 4,
+    "chunks": 6,
+    "indexed_at": "2026-04-24T11:31:14.751349"
+  },
+  {
+    "file_path": "deep-learning-material-dept-ece-ase-blr-1.pdf",
+    "pages": 534,
+    "chunks": 1146,
+    "indexed_at": "2026-04-24T11:33:28.277887"
+  },
+  {
+    "file_path": "deep-learning-material-dept-ece-ase-blr-1.pdf",
+    "pages": 534,
+    "chunks": 1146,
+    "indexed_at": "2026-04-24T11:46:21.079482"
+  },
+  {
+    "file_path": "document_loaders/uploads\\deep-learning-material-dept-ece-ase-blr-1.pdf",
+    "pages": 534,
+    "chunks": 1146,
+    "indexed_at": "2026-04-24T23:37:06.288075"
+  },
+  {
+    "file_path": "deep-learning-material-dept-ece-ase-blr-1.pdf",
+    "pages": 534,
+    "chunks": 1146,
+    "indexed_at": "2026-04-24T23:41:03.976009"
+  },
+  {
+    "file_path": "deep-learning-material-dept-ece-ase-blr-1.pdf",
+    "pages": 534,
+    "chunks": 1146,
+    "indexed_at": "2026-04-25T00:02:44.849113"
+  },
+  {
+    "file_path": "deep-learning-material-dept-ece-ase-blr-1.pdf",
+    "pages": 534,
+    "chunks": 1146,
+    "indexed_at": "2026-04-27T10:33:17.130682"
+  },
+  {
+    "file_path": "deep-learning-material-dept-ece-ase-blr-1.pdf",
+    "pages": 534,
+    "chunks": 1146,
+    "indexed_at": "2026-05-07T10:45:23.313788"
+  }
+]
