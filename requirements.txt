@@ -3,6 +3,7 @@ python-dotenv
 pydantic
 pydantic-settings
 tiktoken
+streamlit
 
 # LangChain core
 langchain
