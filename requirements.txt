@@ -1,0 +1,62 @@
+# Core app
+python-dotenv
+pydantic
+pydantic-settings
+tiktoken
+
+# LangChain core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Model providers
+langchain-openai
+langchain-mistralai
+openai
+mistralai
+
+# Vector database
+chromadb
+
+# Embeddings / numeric ops
+numpy
+
+# Document loading and parsing
+pypdf
+pdfplumber
+pymupdf
+python-docx
+docx2txt
+beautifulsoup4
+lxml
+markdown
+unstructured
+
+# Optional OCR / image-based PDF support
+pytesseract
+Pillow
+
+# API / app serving
+fastapi
+uvicorn
+
+# Utilities
+requests
+httpx
+tqdm
+tenacity
+
+# Optional notebook/dev
+jupyter
+ipykernel
+  
+
+
+
+# Api
+
+fastapi
+uvicorn
+python-multipart
+pydantic
